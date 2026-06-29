@@ -174,10 +174,10 @@ ainda a conferir no carro). **Não há RTC** — o relógio zera ao desligar a c
 > "Hondaisuki"** e identificar a sua versão no formato:
 >
 > ```
-> Hondaisuki <Fulano> version
+> Hondaisuki <xxxxx> version
 > ```
 >
-> Exemplo: `Hondaisuki Fulano version`. Ou seja: você pode adaptar o projeto à
+> Exemplo: `Hondaisuki xxxxx version`. Ou seja: você pode adaptar o projeto à
 > vontade, desde que o nome **Hondaisuki** continue visível e a sua variação
 > seja identificada como uma *version*.
 
