@@ -1,0 +1,32 @@
+# =====================================================================
+#  Hondaisuki — arquivos que NÃO vão para o GitHub
+# =====================================================================
+
+# --- Projeto de referência (não compila junto, é só consulta) ---
+Hondash_Catch/
+Civic_Anime/
+
+# --- Documentação interna / notas de desenvolvimento ---
+DOCUMENTAÇÃO Dash.pdf
+handoff.md
+PLANO_INTEGRACAO.md
+RESUMO_ATUAL_ESTADO.md
+
+# --- Backups (ficam fora do repo) ---
+*- Backup/
+*.bak
+*.old
+
+# --- Artefatos de build do Arduino / PlatformIO ---
+build/
+*.bin
+*.elf
+*.hex
+*.map
+.pio/
+.vscode/
+
+# --- Sistema operacional ---
+Thumbs.db
+desktop.ini
+.DS_Store
